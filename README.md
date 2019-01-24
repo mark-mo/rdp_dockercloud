@@ -1,1 +1,1 @@
-# rdp_dockercloud
+Repository for the 2019 GCU Docker Cloud RDP

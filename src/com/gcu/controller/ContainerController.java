@@ -1,8 +1,8 @@
 package com.gcu.controller;
 
-import com.gcu.service.IContainerService;
+import com.gcu.service.ContainerServiceInterface;
 
 public class ContainerController {
-	IContainerService service;
+	ContainerServiceInterface service;
 
 }

@@ -2,7 +2,7 @@ package com.gcu.data;
 
 import com.gcu.model.User;
 
-public class UserDAO implements IUserDAO {
+public class UserDAO implements UserDAOInterface {
 
 	@Override
 	public boolean createUser(User user) {

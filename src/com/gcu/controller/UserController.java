@@ -1,9 +1,9 @@
 package com.gcu.controller;
 
-import com.gcu.service.IUserService;
+import com.gcu.service.UserServiceInterface;
 
 public class UserController {
-	IUserService service;
+	UserServiceInterface service;
 
 	public void login() {
 

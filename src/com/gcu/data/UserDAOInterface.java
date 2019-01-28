@@ -1,8 +1,8 @@
-package com.gcu.service;
+package com.gcu.data;
 
 import com.gcu.model.User;
 
-public interface IUserService {
+public interface UserDAOInterface {
 	public boolean createUser(User user);
 
 	public User findUser(User user);

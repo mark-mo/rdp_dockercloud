@@ -2,7 +2,7 @@ package com.gcu.service;
 
 import com.gcu.model.User;
 
-public class UserService implements IUserService {
+public class UserService implements UserServiceInterface {
 
 	@Override
 	public boolean createUser(User user) {
